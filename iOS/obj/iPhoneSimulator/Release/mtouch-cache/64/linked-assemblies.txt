@@ -1,0 +1,11 @@
+RemoveDynamicRegistrar:false
+/Users/39664/Desktop/ChineseTest/iOS/bin/iPhoneSimulator/Release/ChineseTest.iOS.app:/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/mtouch-cache/64/1-Link/ChineseTest.iOS.exe
+/Users/39664/Desktop/ChineseTest/iOS/bin/iPhoneSimulator/Release/ChineseTest.iOS.app:/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/mtouch-cache/64/1-Link/mscorlib.dll
+/Users/39664/Desktop/ChineseTest/iOS/bin/iPhoneSimulator/Release/ChineseTest.iOS.app:/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/mtouch-cache/64/1-Link/Xamarin.iOS.dll
+/Users/39664/Desktop/ChineseTest/iOS/bin/iPhoneSimulator/Release/ChineseTest.iOS.app:/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/mtouch-cache/64/1-Link/System.dll
+/Users/39664/Desktop/ChineseTest/iOS/bin/iPhoneSimulator/Release/ChineseTest.iOS.app:/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/mtouch-cache/64/1-Link/Mono.Security.dll
+/Users/39664/Desktop/ChineseTest/iOS/bin/iPhoneSimulator/Release/ChineseTest.iOS.app:/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/mtouch-cache/64/1-Link/System.Xml.dll
+/Users/39664/Desktop/ChineseTest/iOS/bin/iPhoneSimulator/Release/ChineseTest.iOS.app:/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/mtouch-cache/64/1-Link/System.Numerics.dll
+/Users/39664/Desktop/ChineseTest/iOS/bin/iPhoneSimulator/Release/ChineseTest.iOS.app:/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/mtouch-cache/64/1-Link/System.Core.dll
+/Users/39664/Desktop/ChineseTest/iOS/bin/iPhoneSimulator/Release/ChineseTest.iOS.app:/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/mtouch-cache/64/1-Link/System.Net.Http.dll
+/Users/39664/Desktop/ChineseTest/iOS/bin/iPhoneSimulator/Release/ChineseTest.iOS.app:/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/mtouch-cache/64/1-Link/System.Drawing.Common.dll

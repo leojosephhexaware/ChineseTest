@@ -1,0 +1,12 @@
+/Users/39664/Desktop/ChineseTest/iOS/bin/iPhoneSimulator/Release/ChineseTest.iOS.exe
+/Users/39664/Desktop/ChineseTest/iOS/bin/iPhoneSimulator/Release/ChineseTest.dll
+/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/coremlc/_PartialAppManifest.items
+/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/optimized/
+/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/ChineseTest.iOS.csprojAssemblyReference.cache
+/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/ChineseTest.iOS.csproj.CoreCompileInputs.cache
+/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/ChineseTest.iOS.csproj.CopyComplete
+/Users/39664/Desktop/ChineseTest/iOS/obj/iPhoneSimulator/Release/ChineseTest.iOS.exe

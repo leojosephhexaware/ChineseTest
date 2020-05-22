@@ -1,0 +1,3 @@
+/Users/39664/Desktop/ChineseTest/ChineseTest/bin/Release/ChineseTest.dll
+/Users/39664/Desktop/ChineseTest/ChineseTest/obj/Release/ChineseTest.csproj.CoreCompileInputs.cache
+/Users/39664/Desktop/ChineseTest/ChineseTest/obj/Release/ChineseTest.dll

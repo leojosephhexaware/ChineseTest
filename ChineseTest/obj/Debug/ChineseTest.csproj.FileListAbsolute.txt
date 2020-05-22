@@ -1,0 +1,6 @@
+/Users/39664/Desktop/ChineseTest/ChineseTest/bin/Debug/ChineseTest.dll
+/Users/39664/Desktop/ChineseTest/ChineseTest/bin/Debug/ChineseTest.pdb
+/Users/39664/Desktop/ChineseTest/ChineseTest/obj/Debug/ChineseTest.csproj.CoreCompileInputs.cache
+/Users/39664/Desktop/ChineseTest/ChineseTest/obj/Debug/ChineseTest.dll
+/Users/39664/Desktop/ChineseTest/ChineseTest/obj/Debug/ChineseTest.pdb
+/Users/39664/Desktop/ChineseTest/ChineseTest/obj/Debug/ChineseTest.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B6E79DFA-E84E-4D53-8007-A230E26AECF0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ChineseTest.iOS.csproj">
+    <Files>
+      <File FileName="iOS/ChineseTest.iOS.csproj" Line="113" Column="14" />
+      <File FileName="iOS/LaunchScreenSecond.storyboard" />
+      <File FileName="iOS/LaunchScreen.storyboard" />
+      <File FileName="ChineseTest/ChineseTest.csproj" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChineseTest" expanded="True">
+            <Node name="ChineseTest.iOS" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ChineseTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChineseTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.23427F56-6EF0-48D5-8FBE-E3EC2267CE20" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
